@@ -1,1 +1,11 @@
-
+{
+  "publicaciones": [
+    {
+      "id": 1,
+      "titulo": "hello"
+    }
+  ],
+  "perfil": {
+    "nombre": "jhonf"
+  }
+}
